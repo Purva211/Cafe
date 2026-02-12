@@ -23,4 +23,48 @@ This is a Cafe Management Website built using HTML, CSS, JavaScript, and PHP.
 3. Start Apache server
 4. Open http://localhost/Cafe in browser
 
+## 📸 Screenshots
 
+## 📸 Screenshots
+
+<br>
+
+<p align="center">
+  <img src="Screenshot%202026-02-12%20200638.png" width="700">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="Screenshot%202026-02-12%20200706.png" width="700">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="Screenshot%202026-02-12%20200728.png" width="700">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="Screenshot%202026-02-12%20200747.png" width="700">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="Screenshot%202026-02-12%20200809.png" width="700">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="Screenshot%202026-02-12%20200826.png" width="700">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="Screenshot%202026-02-12%20200843.png" width="700">
+</p>
